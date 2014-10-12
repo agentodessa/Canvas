@@ -1,0 +1,6 @@
+D:\Code\Front_end\Canvas\Canvas\bin\Canvas.dll.config
+D:\Code\Front_end\Canvas\Canvas\bin\Canvas.dll
+D:\Code\Front_end\Canvas\Canvas\bin\Canvas.pdb
+D:\Code\Front_end\Canvas\Canvas\obj\Debug\Canvas.csprojResolveAssemblyReference.cache
+D:\Code\Front_end\Canvas\Canvas\obj\Debug\Canvas.dll
+D:\Code\Front_end\Canvas\Canvas\obj\Debug\Canvas.pdb
